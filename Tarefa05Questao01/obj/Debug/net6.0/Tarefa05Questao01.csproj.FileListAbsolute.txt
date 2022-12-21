@@ -1,0 +1,15 @@
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\bin\Debug\net6.0\Tarefa05Questao01.exe
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\bin\Debug\net6.0\Tarefa05Questao01.deps.json
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\bin\Debug\net6.0\Tarefa05Questao01.runtimeconfig.json
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\bin\Debug\net6.0\Tarefa05Questao01.dll
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\bin\Debug\net6.0\Tarefa05Questao01.pdb
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.csproj.AssemblyReference.cache
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.AssemblyInfoInputs.cache
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.AssemblyInfo.cs
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.csproj.CoreCompileInputs.cache
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.dll
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\refint\Tarefa05Questao01.dll
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.pdb
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\Tarefa05Questao01.genruntimeconfig.cache
+D:\Codigos\Source\CT2511\Tarefa05Questao01\Tarefa05Questao01\obj\Debug\net6.0\ref\Tarefa05Questao01.dll
